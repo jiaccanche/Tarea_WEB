@@ -1,0 +1,13 @@
+#usuario{
+  float: right;
+  background: white;
+}
+body{
+  background: rgb( 232, 209, 249 );
+}
+#formulario{
+
+  background: rgb( 200, 192, 206 );
+  border: 1px solid black ;
+   padding: 14px 8px 8px 8px;
+}
